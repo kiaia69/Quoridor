@@ -1,2 +1,3 @@
 # Quoridor
+Progeto di architetture dei sistemi di elaborazione POLITO.
 work in progress...
