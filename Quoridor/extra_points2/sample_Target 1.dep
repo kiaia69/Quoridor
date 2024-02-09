@@ -1,0 +1,226 @@
+Dependencies for Project 'sample', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCLANG5
+F (.\sample.c)(0x65C5EFB0)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\sample.o --omf_browse .\sample.crf --depend .\sample.d)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdio.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.H)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (led/led.h)(0x65C5EFB2)
+I (button_EXINT/button.h)(0x65C5EFB1)
+I (timer/timer.h)(0x65C5EFB2)
+I (RIT/RIT.h)(0x65C5EFB3)
+I (joystick/joystick.h)(0x65C5EFB2)
+I (GLCD/GLCD.h)(0x65C5EFB1)
+I (CAN/CAN.h)(0x65C5EFB1)
+F (.\core_cm3.c)(0x65C5EFB2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\core_cm3.o --omf_browse .\core_cm3.crf --depend .\core_cm3.d)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+F (.\system_LPC17xx.c)(0x65C5EFB1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+F (.\led\funct_led.c)(0x65C5EFB2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\funct_led.o --omf_browse .\funct_led.crf --depend .\funct_led.d)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (led\led.h)(0x65C5EFB2)
+F (.\led\lib_led.c)(0x65C5EFB2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\lib_led.o --omf_browse .\lib_led.crf --depend .\lib_led.d)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (led\led.h)(0x65C5EFB2)
+F (.\led\led.h)(0x65C5EFB2)()
+F (.\button_EXINT\button.h)(0x65C5EFB1)()
+F (.\button_EXINT\IRQ_button.c)(0x65C5EFB1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\irq_button.o --omf_browse .\irq_button.crf --depend .\irq_button.d)
+I (button_EXINT\button.h)(0x65C5EFB1)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (button_EXINT\../timer/timer.h)(0x65C5EFB2)
+I (button_EXINT\../RIT/RIT.h)(0x65C5EFB3)
+I (button_EXINT\../GLCD/GLCD.h)(0x65C5EFB1)
+I (button_EXINT\../drawing.h)(0x65C5EFB3)
+I (button_EXINT\../gioco.h)(0x65C5EFB2)
+F (.\button_EXINT\lib_button.c)(0x65C5EFB1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\lib_button.o --omf_browse .\lib_button.crf --depend .\lib_button.d)
+I (button_EXINT\button.h)(0x65C5EFB1)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+F (.\RIT\IRQ_RIT.c)(0x65C5EFB2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\irq_rit.o --omf_browse .\irq_rit.crf --depend .\irq_rit.d)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (RIT\RIT.h)(0x65C5EFB3)
+I (RIT\../led/led.h)(0x65C5EFB2)
+I (RIT\../GLCD/GLCD.h)(0x65C5EFB1)
+I (RIT\../gioco.h)(0x65C5EFB2)
+I (RIT\../drawing.h)(0x65C5EFB3)
+I (RIT\../timer/timer.h)(0x65C5EFB2)
+I (RIT\../CAN/CAN.h)(0x65C5EFB1)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdio.h)(0x5E8E9F32)
+F (.\RIT\lib_RIT.c)(0x65C5EFB3)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\lib_rit.o --omf_browse .\lib_rit.crf --depend .\lib_rit.d)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (RIT\RIT.h)(0x65C5EFB3)
+F (.\RIT\RIT.h)(0x65C5EFB3)()
+F (.\joystick\joystick.h)(0x65C5EFB2)()
+F (.\joystick\lib_joystick.c)(0x65C5EFB2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\lib_joystick.o --omf_browse .\lib_joystick.crf --depend .\lib_joystick.d)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (joystick\joystick.h)(0x65C5EFB2)
+F (.\GLCD\GLCD.c)(0x65C5EFB1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\glcd.o --omf_browse .\glcd.crf --depend .\glcd.d)
+I (GLCD\GLCD.h)(0x65C5EFB1)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (GLCD\AsciiLib.h)(0x65C5EFB1)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\string.h)(0x5E8E9F32)
+F (.\GLCD\GLCD.h)(0x65C5EFB1)()
+F (.\GLCD\HzLib.c)(0x65C5EFB1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\hzlib.o --omf_browse .\hzlib.crf --depend .\hzlib.d)
+I (GLCD\HzLib.h)(0x65C5EFB2)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\string.h)(0x5E8E9F32)
+F (.\GLCD\HzLib.h)(0x65C5EFB2)()
+F (.\GLCD\AsciiLib.h)(0x65C5EFB1)()
+F (.\GLCD\AsciiLib.c)(0x65C5EFB1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\asciilib.o --omf_browse .\asciilib.crf --depend .\asciilib.d)
+I (GLCD\AsciiLib.h)(0x65C5EFB1)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\string.h)(0x5E8E9F32)
+F (.\timer\timer.h)(0x65C5EFB2)()
+F (.\timer\IRQ_timer.c)(0x65C5EFB2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\irq_timer.o --omf_browse .\irq_timer.crf --depend .\irq_timer.d)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (timer\timer.h)(0x65C5EFB2)
+I (timer\../gioco.h)(0x65C5EFB2)
+I (timer\../drawing.h)(0x65C5EFB3)
+I (timer\../GLCD/GLCD.h)(0x65C5EFB1)
+I (timer\../RIT/RIT.h)(0x65C5EFB3)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdio.h)(0x5E8E9F32)
+F (.\timer\lib_timer.c)(0x65C5EFB2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\lib_timer.o --omf_browse .\lib_timer.crf --depend .\lib_timer.d)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (timer\timer.h)(0x65C5EFB2)
+F (.\drawing.c)(0x65C5EFB2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\drawing.o --omf_browse .\drawing.crf --depend .\drawing.d)
+I (drawing.h)(0x65C5EFB3)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (GLCD/GLCD.h)(0x65C5EFB1)
+I (joystick/joystick.h)(0x65C5EFB2)
+I (RIT/RIT.h)(0x65C5EFB3)
+I (timer/timer.h)(0x65C5EFB2)
+I (gioco.h)(0x65C5EFB2)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdio.h)(0x5E8E9F32)
+F (.\drawing.h)(0x65C5EFB3)()
+F (.\gioco.c)(0x65C5EFAF)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\gioco.o --omf_browse .\gioco.crf --depend .\gioco.d)
+I (gioco.h)(0x65C5EFB2)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (drawing.h)(0x65C5EFB3)
+I (GLCD/GLCD.h)(0x65C5EFB1)
+I (joystick/joystick.h)(0x65C5EFB2)
+I (RIT/RIT.h)(0x65C5EFB3)
+I (timer/timer.h)(0x65C5EFB2)
+I (CAN/CAN.h)(0x65C5EFB1)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdlib.h)(0x5E8E9F32)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdio.h)(0x5E8E9F32)
+F (.\gioco.h)(0x65C5EFB2)()
+F (.\startup_LPC17xx.s)(0x65C5EFB1)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include--pd "__UVISION_VERSION SETA 538" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1" --pd "_RTE_ SETA 1"--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (.\CAN\lib_CAN.c)(0x65C5EFB1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\lib_can.o --omf_browse .\lib_can.crf --depend .\lib_can.d)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (CAN\CAN.h)(0x65C5EFB1)
+I (CAN\../GLCD/GLCD.h)(0x65C5EFB1)
+F (.\CAN\CAN.h)(0x65C5EFB1)()
+F (.\CAN\IRQ_CAN.c)(0x65C5EFB1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\_Target_1-IC:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include-D__UVISION_VERSION="538" -D_RTE_ -DLPC175x_6x -D_RTE_ -DSIMULATOR-o .\irq_can.o --omf_browse .\irq_can.crf --depend .\irq_can.d)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h)(0x5E1DC4B4)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626FAD4E)
+I (C:\Keil_v5\ARM\ARMCLANG5\include\stdint.h)(0x5E8E9F32)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h)(0x626FAD4E)
+I (C:\Users\franc\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h)(0x58493F92)
+I (CAN\CAN.h)(0x65C5EFB1)
+I (CAN\../GLCD/GLCD.h)(0x65C5EFB1)
+I (CAN\../gioco.h)(0x65C5EFB2)
+I (CAN\../timer/timer.h)(0x65C5EFB2)
+I (CAN\../drawing.h)(0x65C5EFB3)
